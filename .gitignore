@@ -1,0 +1,10 @@
+# Large raw downloads are reproducible with the scripts in code/ (see README)
+data/raw/trade/*.csv
+data/raw/trade/*.zip
+data/raw/csbc/*.zip
+data/raw/programs/*_BROKEN.csv
+data/processed/elections_2025_pollbypoll_long.csv.gz
+data/processed/csbc_long.csv
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

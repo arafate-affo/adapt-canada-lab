@@ -1,0 +1,9 @@
+variable,n,pearson_r,p_pearson,spearman_rho,p_spearman
+Share of businesses reporting a negative impact of US tariffs (Q3 2026),10,0.52,0.127,0.6,0.067
+Share of businesses with direct sales to the US (Q3 2026),10,0.32,0.369,0.33,0.347
+"US share of provincial merchandise exports, 2024",10,-0.18,0.626,-0.09,0.803
+"Change in exports to the US, Jan-Sep 2026 vs 2025 (%)",10,0.2,0.583,0.24,0.511
+"Change in exports to the US, Jan-Sep 2025 vs 2024 (%)",10,0.17,0.635,0.43,0.214
+"Conservative vote share, 2025 federal election (%)",10,0.18,0.626,0.18,0.627
+"Liberal vote share, 2025 federal election (%)",10,0.09,0.815,0.12,0.751
+"Voter turnout, 2025 (%)",10,0.02,0.96,0.2,0.58

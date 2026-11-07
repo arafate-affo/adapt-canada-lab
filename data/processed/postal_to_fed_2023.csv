@@ -1,0 +1,407 @@
+postal_code,fed_code,fed_name,status
+K1P5G4,35079,Ottawa Centre,ok
+R3C0A5,46010,Winnipeg Centre,ok
+K1R7S8,35079,Ottawa Centre,ok
+K2P2G8,35079,Ottawa Centre,ok
+B0N1X0,12003,Central Nova,ok
+A2H2V2,10005,Long Range Mountains,ok
+B0K1Y0,12004,Cumberland—Colchester,ok
+A0K4S0,10005,Long Range Mountains,ok
+B1Y2E2,12002,Cape Breton—Canso—Antigonish,ok
+A1E0E4,10002,Cape Spear,ok
+E7B1S9,13005,Madawaska—Restigouche,ok
+E8A1W1,13005,Madawaska—Restigouche,ok
+E7A1R1,13005,Madawaska—Restigouche,ok
+B3B1L7,12009,Sackville—Bedford—Preston,ok
+E4P3P8,13002,Beauséjour,ok
+B2X2C2,12005,Dartmouth—Cole Harbour,ok
+C0B1H0,11003,Egmont,ok
+A1N3C9,10002,Cape Spear,ok
+B3B1N7,12009,Sackville—Bedford—Preston,ok
+C1A5J4,11002,Charlottetown,ok
+A1E2E3,10002,Cape Spear,ok
+L7J1S1,35115,Wellington—Halton Hills North,ok
+C0A1P0,11004,Malpeque,ok
+A0A1E0,10007,Terra Nova—The Peninsulas,ok
+B2A4T8,12011,Sydney—Glace Bay,ok
+C0A1R0,11001,Cardigan,ok
+B3H0A8,12006,Halifax,ok
+A1E3A7,10002,Cape Spear,ok
+E1E0G8,13007,Moncton—Dieppe,ok
+B0J2L0,12003,Central Nova,ok
+C1E0B7,11002,Charlottetown,ok
+B2A3M4,12011,Sydney—Glace Bay,ok
+B4B1J3,12007,Halifax West,ok
+C0A2B0,11001,Cardigan,ok
+E7A1Y1,13005,Madawaska—Restigouche,ok
+C0B2B0,11003,Egmont,ok
+B2Y4V9,12005,Dartmouth—Cole Harbour,ok
+J6E4B7,24029,Joliette—Manawan,ok
+J0K1E0,24012,Berthier—Maskinongé,ok
+J0K2R0,24050,Montcalm,ok
+G0X3H0,24070,Saint-Maurice—Champlain,ok
+J5M2V9,24050,Montcalm,ok
+J0C1K0,24023,Drummond,ok
+J0K2M0,24012,Berthier—Maskinongé,ok
+G9A5E1,24075,Trois-Rivières,ok
+G8T2L8,24075,Trois-Rivières,ok
+J0K2E0,24012,Berthier—Maskinongé,ok
+H7C0A5,24078,Vimy,ok
+A1E1E2,10002,Cape Spear,ok
+B5A4G6,12001,Acadie—Annapolis,ok
+G0X2J0,24070,Saint-Maurice—Champlain,ok
+G7H8B2,24018,Chicoutimi—Le Fjord,ok
+J5L0J2,24064,Rivière-du-Nord,ok
+J0Z1M0,24002,Abitibi—Témiscamingue,ok
+J7Y4B4,24064,Rivière-du-Nord,ok
+J2A2G2,24023,Drummond,ok
+J1N1H2,24019,Compton—Stanstead,ok
+G9N0E9,24070,Saint-Maurice—Champlain,ok
+G8Z2M4,24075,Trois-Rivières,ok
+B4H4B8,12004,Cumberland—Colchester,ok
+G6L3V8,24046,Mégantic—L’Érable—Lotbinière,ok
+G0C3C1,24024,Gaspésie—Les Îles-de-la-Madeleine—Listuguj,ok
+J0V1X0,24005,Argenteuil—La Petite-Nation,ok
+H3A1K2,24077,Ville-Marie—Le Sud-Ouest—Île-des-Soeurs,ok
+B0N2J0,12004,Cumberland—Colchester,ok
+B0J2C0,12010,South Shore—St. Margarets,ok
+J4B7L6,24055,Pierre-Boucher—Les Patriotes—Verchères,ok
+J0E2A0,24071,Shefford,ok
+J3V0M7,24049,Mont-Saint-Bruno—L’Acadie,ok
+J5Z0C8,24060,Repentigny,ok
+J7Y4N7,24064,Rivière-du-Nord,ok
+J6X4J9,24073,Terrebonne,ok
+J1X4V9,24014,Brome—Missisquoi,ok
+G6P7L7,24061,Richmond—Arthabaska,ok
+G0L2P0,24020,Côte-du-Sud—Rivière-du-Loup—Kataskomiq—Témiscouata,ok
+J8R3V8,24005,Argenteuil—La Petite-Nation,ok
+J1L1V9,24072,Sherbrooke,ok
+G0L3M0,24062,Rimouski—La Matapédia,ok
+B3B0J4,12005,Dartmouth—Cole Harbour,ok
+B0J1T0,12010,South Shore—St. Margarets,ok
+H2G2B9,24065,Rosemont—La Petite-Patrie,ok
+J4G1R3,24042,Longueuil—Saint-Hubert,ok
+G0S1Z0,24040,Lévis—Lotbinière,ok
+H2S2X3,24065,Rosemont—La Petite-Patrie,ok
+C0B1G0,11003,Egmont,ok
+J7Y4B7,24064,Rivière-du-Nord,ok
+G4Z3A6,24021,Côte-Nord—Kawawachikamach—Nitassinan,ok
+G0L2V0,24062,Rimouski—La Matapédia,ok
+G8T9M1,24070,Saint-Maurice—Champlain,ok
+E3L2X2,13009,Saint John—St. Croix,ok
+A1N4S4,10002,Cape Spear,ok
+B4P2R1,12008,Kings—Hants,ok
+J0Z3B0,24002,Abitibi—Témiscamingue,ok
+G0K1S0,24062,Rimouski—La Matapédia,ok
+A1B2N5,10006,St. John's East,ok
+E7H2J1,13010,Tobique—Mactaquac,ok
+C1N1A6,11003,Egmont,ok
+H1C1G1,24027,Honoré-Mercier,ok
+G6H4G8,24046,Mégantic—L’Érable—Lotbinière,ok
+G7K1G8,24018,Chicoutimi—Le Fjord,ok
+G7K1A2,24018,Chicoutimi—Le Fjord,ok
+J4B8C5,24055,Pierre-Boucher—Les Patriotes—Verchères,ok
+J9P0G5,24001,Abitibi—Baie-James—Nunavik—Eeyou,ok
+G8M5A6,24033,Lac-Saint-Jean,ok
+C0A1H0,11004,Malpeque,ok
+C0A1S0,11001,Cardigan,ok
+G0R2V0,24010,Bellechasse—Les Etchemins—Lévis,ok
+G6L2Y4,24046,Mégantic—L’Érable—Lotbinière,ok
+J9P6X4,24001,Abitibi—Baie-James—Nunavik—Eeyou,ok
+B0E1Y0,12002,Cape Breton—Canso—Antigonish,ok
+A1A1G8,10006,St. John's East,ok
+E4P2A5,13002,Beauséjour,ok
+G7B3N8,24018,Chicoutimi—Le Fjord,ok
+G0S2C0,24040,Lévis—Lotbinière,ok
+G1X4S8,24043,Louis-Hébert,ok
+G0L3B0,24062,Rimouski—La Matapédia,ok
+J3R3M8,24009,Bécancour—Nicolet—Saurel—Alnôbak,ok
+J1L0A3,24072,Sherbrooke,ok
+J0H2B0,24066,Saint-Hyacinthe—Bagot—Acton,ok
+J2C0C1,24023,Drummond,ok
+J5W2G9,24060,Repentigny,ok
+C0B1A0,11004,Malpeque,ok
+A0B1X0,10007,Terra Nova—The Peninsulas,ok
+G8B6H2,24033,Lac-Saint-Jean,ok
+J1R0W8,24019,Compton—Stanstead,ok
+G0W2V0,24030,Jonquière,ok
+G1P3S9,24043,Louis-Hébert,ok
+G0P1J0,24061,Richmond—Arthabaska,ok
+G5Y0H1,24006,Beauce,ok
+J2C6H9,24023,Drummond,ok
+G6Z1C5,24040,Lévis—Lotbinière,ok
+G4V1M4,24024,Gaspésie—Les Îles-de-la-Madeleine—Listuguj,ok
+E1A9A3,13002,Beauséjour,ok
+A1C5J1,10006,St. John's East,ok
+B3S1A2,12007,Halifax West,ok
+G7A1B3,24040,Lévis—Lotbinière,ok
+J6E8M7,24029,Joliette—Manawan,ok
+G0A1E0,24051,Montmorency—Charlevoix,ok
+G0R1Y0,24010,Bellechasse—Les Etchemins—Lévis,ok
+G7J5A9,24018,Chicoutimi—Le Fjord,ok
+B0W1P0,12010,South Shore—St. Margarets,ok
+H8R1Z2,24022,Dorval—Lachine—LaSalle,ok
+B0W2P0,12010,South Shore—St. Margarets,ok
+G0R1Z0,24020,Côte-du-Sud—Rivière-du-Loup—Kataskomiq—Témiscouata,ok
+E1A9S5,13007,Moncton—Dieppe,ok
+C0B1X0,11004,Malpeque,ok
+J2C6X9,24023,Drummond,ok
+J0K3H0,24050,Montcalm,ok
+G7N1N4,24018,Chicoutimi—Le Fjord,ok
+G6E1B5,24006,Beauce,ok
+G6L5A9,24046,Mégantic—L’Érable—Lotbinière,ok
+G8H2M9,24033,Lac-Saint-Jean,ok
+G0R1H0,24020,Côte-du-Sud—Rivière-du-Loup—Kataskomiq—Témiscouata,ok
+B4B1H1,12007,Halifax West,ok
+B2S2L4,12008,Kings—Hants,ok
+B2A4T3,12011,Sydney—Glace Bay,ok
+E4E3H1,13004,Fundy Royal,ok
+G6W5M6,24040,Lévis—Lotbinière,ok
+J0H1W0,24066,Saint-Hyacinthe—Bagot—Acton,ok
+E2M3H2,13009,Saint John—St. Croix,ok
+G3A2H3,24058,Portneuf—Jacques-Cartier,ok
+J1N0G2,24072,Sherbrooke,ok
+B3P2H4,12006,Halifax,ok
+B0J2E0,12010,South Shore—St. Margarets,ok
+G0L1X0,24020,Côte-du-Sud—Rivière-du-Loup—Kataskomiq—Témiscouata,ok
+J2G3Z7,24071,Shefford,ok
+B0M1X0,12004,Cumberland—Colchester,ok
+J7Y4C8,24064,Rivière-du-Nord,ok
+G0S1Y0,24040,Lévis—Lotbinière,ok
+J9P6Y9,24001,Abitibi—Baie-James—Nunavik—Eeyou,ok
+J0R1R2,24039,Les Pays-d'en-Haut,ok
+G7K1C9,24018,Chicoutimi—Le Fjord,ok
+J6X4J8,24073,Terrebonne,ok
+E2J4Y3,13008,Saint John—Kennebecasis,ok
+J1T4V4,24061,Richmond—Arthabaska,ok
+A1C6K3,10006,St. John's East,ok
+E3B8K3,13003,Fredericton—Oromocto,ok
+A1N5E7,10002,Cape Spear,ok
+C1A7K7,11001,Cardigan,ok
+A1B3X2,10006,St. John's East,ok
+E1E2G8,13007,Moncton—Dieppe,ok
+G6A1L1,24006,Beauce,ok
+G9H3A3,24009,Bécancour—Nicolet—Saurel—Alnôbak,ok
+H4C1V9,24035,LaSalle—Émard—Verdun,ok
+J3Y2S3,24041,Longueuil—Charles-LeMoyne,ok
+G0E1G0,24024,Gaspésie—Les Îles-de-la-Madeleine—Listuguj,ok
+J4B5H2,24055,Pierre-Boucher—Les Patriotes—Verchères,ok
+J1R0X3,24019,Compton—Stanstead,ok
+J6Y0J8,24073,Terrebonne,ok
+J4B6A1,24055,Pierre-Boucher—Les Patriotes—Verchères,ok
+G0T1P0,24021,Côte-Nord—Kawawachikamach—Nitassinan,ok
+G9H2V9,24009,Bécancour—Nicolet—Saurel—Alnôbak,ok
+J3B7X4,24067,Saint-Jean,ok
+H8R1V6,24022,Dorval—Lachine—LaSalle,ok
+G6P7H2,24061,Richmond—Arthabaska,ok
+A1E6B5,10006,St. John's East,ok
+J3G6S4,24011,Beloeil—Chambly,ok
+G0M1S0,24046,Mégantic—L’Érable—Lotbinière,ok
+G9H2Z6,24009,Bécancour—Nicolet—Saurel—Alnôbak,ok
+J2T2G8,24066,Saint-Hyacinthe—Bagot—Acton,ok
+G3L2C5,24058,Portneuf—Jacques-Cartier,ok
+G0M1J0,24006,Beauce,ok
+J6J4Z2,24017,Châteauguay—Les Jardins-de-Napierville,ok
+G7X0J7,24030,Jonquière,ok
+J7C0B5,24074,Thérèse-De Blainville,ok
+J3B8J8,24067,Saint-Jean,ok
+G0M1B0,24006,Beauce,ok
+J6Y1Y5,24073,Terrebonne,ok
+G6Z2Y8,24040,Lévis—Lotbinière,ok
+J0V1H0,24005,Argenteuil—La Petite-Nation,ok
+G3M1V4,24058,Portneuf—Jacques-Cartier,ok
+J3G4S5,24011,Beloeil—Chambly,ok
+G2E5S4,24059,Québec Centre,ok
+B0W3T0,12001,Acadie—Annapolis,ok
+E4V2K4,13002,Beauséjour,ok
+E1A5M7,13007,Moncton—Dieppe,ok
+J0L2L0,24017,Châteauguay—Les Jardins-de-Napierville,ok
+G0M1R0,24006,Beauce,ok
+G7S1B4,24030,Jonquière,ok
+G6A1K5,24006,Beauce,ok
+J6W6B6,24073,Terrebonne,ok
+G0Z1B0,24061,Richmond—Arthabaska,ok
+G1N4K3,24059,Québec Centre,ok
+J3L4N7,24011,Beloeil—Chambly,ok
+J0J1L0,24017,Châteauguay—Les Jardins-de-Napierville,ok
+E3V4H4,13005,Madawaska—Restigouche,ok
+H7S1A9,24078,Vimy,ok
+G7B3P6,24018,Chicoutimi—Le Fjord,ok
+J0L1N0,24055,Pierre-Boucher—Les Patriotes—Verchères,ok
+J6W6C1,24073,Terrebonne,ok
+A1B1W2,10006,St. John's East,ok
+J7C5E2,24074,Thérèse-De Blainville,ok
+G0R3G0,24020,Côte-du-Sud—Rivière-du-Loup—Kataskomiq—Témiscouata,ok
+J5W2T9,24060,Repentigny,ok
+H9R1A3,24034,Lac-Saint-Louis,ok
+J5N1G9,24064,Rivière-du-Nord,ok
+B3B1T8,12009,Sackville—Bedford—Preston,ok
+E1H2J9,13007,Moncton—Dieppe,ok
+H9X4B2,24034,Lac-Saint-Louis,ok
+H4C2C7,24077,Ville-Marie—Le Sud-Ouest—Île-des-Soeurs,ok
+H1P2A7,24069,Saint-Léonard—Saint-Michel,ok
+H4S1R9,24068,Saint-Laurent,ok
+H7C1A1,24004,Alfred-Pellan,ok
+B0W2K0,12001,Acadie—Annapolis,ok
+H1G3K7,24013,Bourassa,ok
+J5B2J1,24032,La Prairie—Atateken,ok
+E1X1A1,13001,Acadie—Bathurst,ok
+B5A4P8,12001,Acadie—Annapolis,ok
+J0B3H0,24019,Compton—Stanstead,ok
+J3H0M6,24011,Beloeil—Chambly,ok
+H7P4J3,24045,Marc-Aurèle-Fortin,ok
+J3L4C4,24011,Beloeil—Chambly,ok
+H2J3S6,24037,Laurier—Sainte-Marie,ok
+H7L3N6,24045,Marc-Aurèle-Fortin,ok
+H1J2T3,24027,Honoré-Mercier,ok
+H9X3T1,24034,Lac-Saint-Louis,ok
+B0M1L0,12004,Cumberland—Colchester,ok
+G7K1H7,24018,Chicoutimi—Le Fjord,ok
+H4S1Y1,24068,Saint-Laurent,ok
+G0N1S0,24046,Mégantic—L’Érable—Lotbinière,ok
+H4S1E7,24068,Saint-Laurent,ok
+H1V2W6,24026,Hochelaga—Rosemont-Est,ok
+J4N1C7,24042,Longueuil—Saint-Hubert,ok
+G1P2J9,24059,Québec Centre,ok
+J5C1C5,24032,La Prairie—Atateken,ok
+J1L1V8,24072,Sherbrooke,ok
+A1C6C9,10006,St. John's East,ok
+J5C1C4,24032,La Prairie—Atateken,ok
+G0M1P0,24006,Beauce,ok
+E2K5L6,13008,Saint John—Kennebecasis,ok
+H4T1V7,24068,Saint-Laurent,ok
+J1A0B4,24019,Compton—Stanstead,ok
+G0P1M0,24061,Richmond—Arthabaska,ok
+G6L4M3,24046,Mégantic—L’Érable—Lotbinière,ok
+G8P2K7,24001,Abitibi—Baie-James—Nunavik—Eeyou,ok
+G1P4M6,24059,Québec Centre,ok
+H8N2W7,24022,Dorval—Lachine—LaSalle,ok
+J3L4X3,24011,Beloeil—Chambly,ok
+J6R1C6,24017,Châteauguay—Les Jardins-de-Napierville,ok
+G6G3V8,24046,Mégantic—L’Érable—Lotbinière,ok
+G1P2H3,24059,Québec Centre,ok
+J0L1C0,24055,Pierre-Boucher—Les Patriotes—Verchères,ok
+G0S2W0,24040,Lévis—Lotbinière,ok
+J5R4G8,24032,La Prairie—Atateken,ok
+E3L2X5,13009,Saint John—St. Croix,ok
+C0A1Y0,11004,Malpeque,ok
+E1X1A2,13001,Acadie—Bathurst,ok
+C1A8R8,11002,Charlottetown,ok
+G3A2K1,24058,Portneuf—Jacques-Cartier,ok
+H1E7J8,24027,Honoré-Mercier,ok
+H4N1S2,24068,Saint-Laurent,ok
+G0A4B0,24058,Portneuf—Jacques-Cartier,ok
+G0R3H0,24020,Côte-du-Sud—Rivière-du-Loup—Kataskomiq—Témiscouata,ok
+J7C5S4,24074,Thérèse-De Blainville,ok
+J0A1A0,24061,Richmond—Arthabaska,ok
+J5R3L6,24032,La Prairie—Atateken,ok
+G0R3A0,24010,Bellechasse—Les Etchemins—Lévis,ok
+H1P1Z4,24027,Honoré-Mercier,ok
+J7Y4C1,24064,Rivière-du-Nord,ok
+J3E1Y2,24049,Mont-Saint-Bruno—L’Acadie,ok
+J7C3W7,24074,Thérèse-De Blainville,ok
+G6L3G9,24046,Mégantic—L’Érable—Lotbinière,ok
+J4G2P8,24042,Longueuil—Saint-Hubert,ok
+J5R2E4,24032,La Prairie—Atateken,ok
+H9X4B4,24034,Lac-Saint-Louis,ok
+J0E2L0,24071,Shefford,ok
+H7L3W3,24045,Marc-Aurèle-Fortin,ok
+J9Z2L1,24002,Abitibi—Témiscamingue,ok
+H9H4M7,24034,Lac-Saint-Louis,ok
+G0T1Y0,24021,Côte-Nord—Kawawachikamach—Nitassinan,ok
+G4R4K2,24021,Côte-Nord—Kawawachikamach—Nitassinan,ok
+J5V2L4,24012,Berthier—Maskinongé,ok
+J3X1P7,24055,Pierre-Boucher—Les Patriotes—Verchères,ok
+J6Y0J9,24073,Terrebonne,ok
+G0S3A0,24006,Beauce,ok
+G2N2C9,24016,Charlesbourg—Haute-Saint-Charles,ok
+G7S2A8,24030,Jonquière,ok
+H1J2H9,24027,Honoré-Mercier,ok
+G5V4N9,24020,Côte-du-Sud—Rivière-du-Loup—Kataskomiq—Témiscouata,ok
+E3C0J1,13009,Saint John—St. Croix,ok
+G1W0C5,24043,Louis-Hébert,ok
+J1C0R2,24019,Compton—Stanstead,ok
+J0V1R0,24005,Argenteuil—La Petite-Nation,ok
+H4T2C7,24068,Saint-Laurent,ok
+G5V4G2,24020,Côte-du-Sud—Rivière-du-Loup—Kataskomiq—Témiscouata,ok
+E4W4A4,13002,Beauséjour,ok
+E5H1K1,13009,Saint John—St. Croix,ok
+E2H0A4,13008,Saint John—Kennebecasis,ok
+J7T2B8,24076,Vaudreuil,ok
+J3V6E1,24049,Mont-Saint-Bruno—L’Acadie,ok
+A1L4A2,10002,Cape Spear,ok
+A0B3M0,10007,Terra Nova—The Peninsulas,ok
+H3P1T7,24048,Mount Royal,ok
+A1B4C4,10006,St. John's East,ok
+A1A5N7,10006,St. John's East,ok
+J2C7G3,24023,Drummond,ok
+J5Z4Y8,24060,Repentigny,ok
+J4Y0E4,24015,Brossard—Saint-Lambert,ok
+J0S1T0,24007,Beauharnois—Salaberry—Soulanges—Huntingdon,ok
+B3K2R6,12006,Halifax,ok
+B0T1L0,12010,South Shore—St. Margarets,ok
+B0W2B0,12001,Acadie—Annapolis,ok
+J0Z2J0,24002,Abitibi—Témiscamingue,ok
+K1A0C6,35079,Ottawa Centre,ok
+A0E1W0,10007,Terra Nova—The Peninsulas,ok
+A1B4N2,10006,St. John's East,ok
+C0A1N0,11004,Malpeque,ok
+G0W1H0,24001,Abitibi—Baie-James—Nunavik—Eeyou,ok
+B0C1N0,12002,Cape Breton—Canso—Antigonish,ok
+A0G3Z0,10003,Central Newfoundland,ok
+H1B5H6,24031,La Pointe-de-l'Île,ok
+A1N0K5,10002,Cape Spear,ok
+C0A1A0,11001,Cardigan,ok
+B0E2G0,12002,Cape Breton—Canso—Antigonish,ok
+H9X3T5,24034,Lac-Saint-Louis,ok
+E5H1E6,13009,Saint John—St. Croix,ok
+G8H2P2,24033,Lac-Saint-Jean,ok
+A1Y0A7,10002,Cape Spear,ok
+A1C6K1,10006,St. John's East,ok
+J6E3P1,24029,Joliette—Manawan,ok
+G9T5K5,24070,Saint-Maurice—Champlain,ok
+B1P6R7,12011,Sydney—Glace Bay,ok
+A2B1J3,10003,Central Newfoundland,ok
+B0K1S0,12003,Central Nova,ok
+E3N5E7,13005,Madawaska—Restigouche,ok
+E7M4E6,13010,Tobique—Mactaquac,ok
+E3C2G4,13003,Fredericton—Oromocto,ok
+J2S1H3,24066,Saint-Hyacinthe—Bagot—Acton,ok
+J0X1E0,24057,Pontiac—Kitigan Zibi,ok
+J7Y5E9,24064,Rivière-du-Nord,ok
+G0H1A0,24021,Côte-Nord—Kawawachikamach—Nitassinan,ok
+J0E1H0,24014,Brome—Missisquoi,ok
+G7H5A8,24018,Chicoutimi—Le Fjord,ok
+J3Y8Y7,24049,Mont-Saint-Bruno—L’Acadie,ok
+J9Y0A3,24002,Abitibi—Témiscamingue,ok
+G8L1Z6,24033,Lac-Saint-Jean,ok
+J7G2J2,24063,Rivière-des-Mille-Îles,ok
+G5R3Y9,24020,Côte-du-Sud—Rivière-du-Loup—Kataskomiq—Témiscouata,ok
+J9T3A1,24002,Abitibi—Témiscamingue,ok
+J1C0W2,24019,Compton—Stanstead,ok
+J1L2W7,24072,Sherbrooke,ok
+J4B7L8,24055,Pierre-Boucher—Les Patriotes—Verchères,ok
+G1W2L4,24043,Louis-Hébert,ok
+G7H5B1,24030,Jonquière,ok
+E7P2K5,13010,Tobique—Mactaquac,ok
+G7J3Y3,24018,Chicoutimi—Le Fjord,ok
+J0Y2E0,24002,Abitibi—Témiscamingue,ok
+J3Y0V6,24015,Brossard—Saint-Lambert,ok
+E7L1Y9,13010,Tobique—Mactaquac,ok
+J0B2T0,24023,Drummond,ok
+E1C0B4,13007,Moncton—Dieppe,ok
+A0K3L0,10004,Labrador,ok
+J3Y1R4,24042,Longueuil—Saint-Hubert,ok
+E7P2X6,13010,Tobique—Mactaquac,ok
+J6E8S2,24029,Joliette—Manawan,ok
+H4N2A4,24068,Saint-Laurent,ok
+G9B6E6,24070,Saint-Maurice—Champlain,ok
+G7A2N1,24040,Lévis—Lotbinière,ok
+G0L3Y0,24020,Côte-du-Sud—Rivière-du-Loup—Kataskomiq—Témiscouata,ok
+J7J1X9,24047,Mirabel,ok
+J3L5G8,24011,Beloeil—Chambly,ok
+H1E7J5,24027,Honoré-Mercier,ok
+J5R1B6,24032,La Prairie—Atateken,ok
+C0B2E0,11003,Egmont,ok
+H2Z1B1,24037,Laurier—Sainte-Marie,ok
+G6T2A9,24061,Richmond—Arthabaska,ok

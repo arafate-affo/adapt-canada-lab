@@ -1,0 +1,5 @@
+# Raw data and generated figures are not source code: keep the language badge on Python
+data/** linguist-vendored
+output/** linguist-generated
+docs/figures/** linguist-generated
+docs/dashboard.html linguist-generated

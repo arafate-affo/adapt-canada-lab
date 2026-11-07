@@ -1,0 +1,34 @@
+table_id,quarter,question,question_text,n_rows,n_categories,share_suppressed
+33100990,2025Q2,us_sales_share,Percentage of sales made directly to clients or customers in the United States over the last 12 months,7504,8,0.373
+33100992,2025Q2,tariff_impact_level,Level of impact of tariffs or trade barriers on business or organization,14070,3,0.17
+33100993,2025Q2,tariff_actions_taken,Actions taken over the last three months by business or organization to mitigate risks associated with any tariffs applied by the United States on imports from Canada,11256,12,0.1
+33101004,2025Q2,ai_use_last12m,Use of artificial intelligence (AI) by businesses or organizations in producing goods or delivering services over the last 12 months,18760,20,0.306
+33101026,2025Q3,us_sales_share,Percentage of sales made directly to clients or customers in the United States over the last 12 months,7504,8,0.117
+33101028,2025Q3,tariff_impact_level,Level of impact of tariffs or trade barriers on business or organization,16884,3,0.133
+33101029,2025Q3,tariff_actions_planned,Planned actions over the next 12 months by business or organization as a result of any tariffs applied by the United States on imports from Canada,15946,17,0.103
+33101031,2025Q3,us_tariffs_on_sales,Tariffs imposed by the United States on goods business or organization sells to the United States over the last three months,1876,2,0.453
+33101036,2025Q3,tariff_cost_passthrough,Business or organization passed on cost increases due to tariffs to its customers over the last six months,2814,3,0.198
+33101045,2025Q3,ai_use_next12m,Use of artificial intelligence (AI) by businesses or organizations in producing goods or delivering services over the next 12 months,19698,21,0.266
+33101067,2025Q4,us_sales_share,Percentage of sales made directly to clients or customers in the United States over the last 12 months,7504,8,0.108
+33101069,2025Q4,tariff_impact_level,Level of impact of tariffs or trade barriers on business or organization,16884,3,0.124
+33101070,2025Q4,tariff_actions_planned,Planned actions over the next 12 months by business or organization as a result of any tariffs applied by the United States on imports from Canada,15946,17,0.09
+33101071,2025Q4,us_tariffs_on_sales,Tariffs imposed by the United States on goods that the business or organization sells to the United States over the last three months,1876,2,0.45
+33101080,2025Q4,changed_suppliers,Business or organization changed suppliers as a result of tariffs imposed by either Canada or the United States over the last three months,1876,2,0.133
+33101107,2026Q1,us_sales_share,Percentage of sales made directly to clients or customers in the United States over the last 12 months,7504,8,0.355
+33101109,2026Q1,tariff_impact_level,Level of impact of tariffs or trade barriers on business or organization,16884,3,0.116
+33101110,2026Q1,tariff_actions_taken,Actions taken over the last 12 months by business or organization as a result of any tariffs applied by the United States on imports from Canada,15008,16,0.09
+33101111,2026Q1,us_tariffs_on_sales,Tariffs imposed by the United States on goods that the business or organization sold to the United States over the last 12 months,1876,2,0.479
+33101113,2026Q1,tariff_cost_passthrough,Cost increases due to tariffs passed on to customers by businesses or organizations over the last 12 months,2814,3,0.181
+33101129,2026Q1,tech_adoption_training,"Adoption of new technologies over the last three years, training provided, and employees' ability to adapt to new technologies",5628,6,0.195
+33101146,2026Q2,us_sales_share,Percentage of sales made directly to clients or customers in the United States over the last 12 months,7504,8,0.378
+33101148,2026Q2,tariff_impact_level,Expected level of impact of tariffs or trade barriers on business or organization,16884,3,0.131
+33101149,2026Q2,tariff_actions_planned,Planned actions over the next 12 months by business or organization as a result of any tariffs applied by the United States on imports from Canada,16884,18,0.097
+33101150,2026Q2,us_tariffs_on_sales,Tariffs imposed by the United States on goods that the business or organization sold to the United States over the last 12 months,1876,2,0.506
+33101152,2026Q2,tariff_cost_passthrough,Cost increases due to tariffs passed on to customers by businesses or organizations over the last 12 months,2814,3,0.193
+33101167,2026Q2,ai_use_last12m,Use of artificial intelligence (AI) by businesses or organizations in producing goods or delivering services over the last 12 months,18760,20,0.288
+33101186,2026Q3,us_sales_share,Percentage of sales made directly to clients or customers in the United States over the last 12 months,7616,8,0.347
+33101188,2026Q3,tariff_impact_level,Expected level of impact of tariffs or trade barriers on business or organization,17136,3,0.111
+33101189,2026Q3,tariff_actions_planned,Planned actions over the next 12 months by business or organization as a result of any tariffs applied by the United States on imports from Canada,17136,18,0.085
+33101190,2026Q3,us_tariffs_on_sales,Tariffs imposed by the United States on goods that the business or organization sold to the United States over the last 12 months,1904,2,0.422
+33101192,2026Q3,tariff_cost_passthrough,Cost increases due to tariffs passed on to customers by businesses or organizations over the last 12 months,2856,3,0.179
+33101207,2026Q3,ai_use_next12m,Use of artificial intelligence (AI) by businesses or organizations in producing goods or delivering services over the next 12 months,19992,21,0.239

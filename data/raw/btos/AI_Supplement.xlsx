@@ -1,0 +1,64 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content=""><meta name="author" content=""><link rel="icon" href="favicon.ico"><link rel="stylesheet" href="https://www.census.gov/main/css/font-awesome-4.7.0/css/font-awesome.min.css"><link rel="stylesheet" href="https://www.census.gov/main/css/all_header_styles.css"><title>Business Trends and Outlook Survey</title><style type="text/css">header.hdr-primary,
+    header.hdr-primary>nav {
+      display: flex !important;
+      align-items: center !important;
+      margin: 0 !important;
+      padding: 0 !important;
+      height: 64px !important;
+      background-color: #ffffff !important;
+      /* border-color: #112e51 !important;*/
+    }
+
+    header.hdr-primary>nav>div {
+      box-sizing: border-box !important;
+      height: 36.62px !important;
+      font-size: 20px !important;
+      font-weight: 500 !important;
+      letter-spacing: 0.02em !important;
+      line-height: 30px !important;
+      white-space: nowrap !important;
+      vertical-align: baseline !important;
+      padding: 0 0 0 16px !important;
+      margin: 0 !important;
+      min-width: 150px !important;
+    }
+
+    header.hdr-primary>nav>div>a,
+    header.hdr-primary>nav>div>a>img {
+      padding: 0 !important;
+      margin: 0 !important;
+      border-style: none !important;
+      background: transparent !important;
+      text-decoration: none !important;
+    }
+
+    header.hdr-primary>nav>div>a {
+      box-sizing: border-box !important;
+      cursor: pointer !important;
+      text-decoration: none !important;
+    }
+
+    header.hdr-primary>nav>div>a>img {
+      width: 86px !important;
+      height: 33.62px !important;
+      margin-left: 15px !important;
+    }
+
+    hr.blue-line {
+      /* border-top-width: 2px;*/
+      /* border-color: #d0dce1;*/
+      margin: 0px;
+      border-bottom: #d0dce1 1px solid;
+
+    }</style><style id="antiClickjack">body {
+      display: none !important
+    }</style><script src="https://www.census.gov/main/javascript/clickjack.js"></script><script src="https://www.census.gov/main/responsive-header/jquery/jquery.js" class="cb-main-support global-file"></script><script src="https://www.census.gov/main/responsive-header/jquery/jquery-ui.js" class="cb-main-support global-file"></script><script>$acn = jQuery.noConflict();
+    if (typeof jQuery === 'undefined' || typeof $ === 'undefined') {
+      jQuery = $acn;
+      $ = $acn;
+    }
+    $(function () {
+      $('.cb-header-skip-nav').click(function () {
+        $('#cb-after-header-anchor').focus();
+      });
+    });</script><script src="https://www.census.gov/main/responsive-header/bootstrap-custom/js/bootstrap.js" class="cb-main-support global-file"></script><script src="https://www.census.gov/main/responsive-header/js/typeahead.js" class="cb-main-support global-file"></script><link href="css/app.57ef38f6.css" rel="preload" as="style"><link href="css/chunk-vendors.9aef4893.css" rel="preload" as="style"><link href="js/app.33f77371.js" rel="preload" as="script"><link href="js/chunk-vendors.9013e116.js" rel="preload" as="script"><link href="css/chunk-vendors.9aef4893.css" rel="stylesheet"><link href="css/app.57ef38f6.css" rel="stylesheet"></head><body><noscript><strong>We're sorry but Business Trends and Outlook Survey doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id="app"></div><script src="https://datavis.census.gov/javascripts/api/tableau-2.7.0.min.js"></script><script language="javascript" id="_fed_an_ua_tag" src="https://www.census.gov/main/javascript/federated-analytics-min.js?agency=DOC&subagency=CEN" class="global-file"></script><script src="https://www.census.gov/main/uswds/uswds-2.12.0/js/uswds-init.min.js"></script><script src="https://assets.adobedtm.com/7d6e749d4118/1f2b049df95b/launch-ENdc1ca6bab15e46a5b880a2c3f9d462ab.min.js"></script><script src="js/chunk-vendors.9013e116.js"></script><script src="js/app.33f77371.js"></script></body></html>

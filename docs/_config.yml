@@ -1,0 +1,8 @@
+title: ADAPT Canada - data lab starter kit
+description: Canadian data infrastructure for the Laboratory on adaptation to economic shocks (prototype)
+remote_theme: just-the-docs/just-the-docs
+color_scheme: light
+search_enabled: true
+heading_anchors: true
+aux_links:
+  "Repository": ["https://github.com/arafate-affo/adapt-canada-lab"]
